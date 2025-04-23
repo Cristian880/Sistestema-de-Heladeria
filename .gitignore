@@ -1,0 +1,15 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.vsidx
+*.VC.db
+*.opendb
+
+# Carpetas de compilación
+bin/
+obj/
+
+# Archivos temporales
+*.log
+*.cache
