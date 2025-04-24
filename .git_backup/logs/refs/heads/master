@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 d20053edb6c5d65fd5374d6937881d85b90a88b9 Cristian Luna <cristianlunarosario08@gmail.com> 1745184125 -0400	commit (initial): Mi sistema de Heladeria
+d20053edb6c5d65fd5374d6937881d85b90a88b9 7f756b399519e86e37c6e7855e47412ca7c0dbd5 Cristian Luna <cristianlunarosario08@gmail.com> 1745185535 -0400	commit: prueba del push y commit desde vsc
+7f756b399519e86e37c6e7855e47412ca7c0dbd5 e62ca8e8c240902320418196df82d391c674e299 Cristian Luna <cristianlunarosario08@gmail.com> 1745345148 -0400	commit: Ignorando archivos innecesarios
+e62ca8e8c240902320418196df82d391c674e299 c5623c974c78cdf279dd0a036e7c6b03552f4d62 Cristian Luna <cristianlunarosario08@gmail.com> 1745345254 -0400	commit: Restaurar archivos importantes del proyecto
+c5623c974c78cdf279dd0a036e7c6b03552f4d62 00b2dcdc2d30111b75c1531c8d755c9c60fc3a94 Cristian Luna <cristianlunarosario08@gmail.com> 1745345344 -0400	commit: Restaurar archivos de solución y proyecto
+00b2dcdc2d30111b75c1531c8d755c9c60fc3a94 e4120c29af0b11d6020b566b509917de1364d088 Cristian Luna <cristianlunarosario08@gmail.com> 1745457603 -0400	commit: Ignorar archivos generados automáticamente
+e4120c29af0b11d6020b566b509917de1364d088 dd1729f79064e0fd9a799e5e8450ce49d63c51ae Cristian Luna <cristianlunarosario08@gmail.com> 1745457605 -0400	pull origin master --rebase (finish): refs/heads/master onto dd1729f79064e0fd9a799e5e8450ce49d63c51ae
